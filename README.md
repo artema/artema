@@ -7,7 +7,8 @@
 - [AWS Lambda ARM64 vs x64 Benchmarks](https://abashev.com/aws-lambda-arm64-vs-x64-benchmarks/)
 - [Production AWS Lambda Performance Checklist](https://abashev.com/production-aws-lambda-performance-checklist/)
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 ### LeetCode Stats
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=abashev)](https://leetcode.com/abashev/)
+ -->
