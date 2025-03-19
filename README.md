@@ -10,5 +10,5 @@
 
 ### LeetCode Stats
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=abashev)](https://leetcode.com/abashev/)
+[![Leetcode Stats](https://raw.githubusercontent.com/artema/artema/refs/heads/main/leetcode.png)](https://leetcode.com/abashev/)
 
